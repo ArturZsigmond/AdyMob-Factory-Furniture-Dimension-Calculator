@@ -1,6 +1,8 @@
 # AdyMob-Factory-Furniture-Dimension-Calculator
 This project is developed for AdyMob Factory to assist in calculating the dimensions of each side of furniture pieces, such as cabinets, based on user inputs. The software is designed to streamline the process of determining accurate cut sizes for each side of the furniture, considering material thickness and placement options.
 
+![image](https://github.com/user-attachments/assets/b9d9243a-08d6-40b3-be15-8ec05c4cb917)
+
 Features:
 
 - Unit Selection: Users can choose their preferred unit of measurement (mm, cm, m).
